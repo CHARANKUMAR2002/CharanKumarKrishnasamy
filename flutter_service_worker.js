@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d150d927525582e85a558f1696ddd9a0",
+  "assets/AssetManifest.json": "6d56bf8b7ea7bf9a73dd4eb66f86a743",
 "assets/FontManifest.json": "aedcaeb2e24bea51299b60ca067aa4c5",
 "assets/fonts/AntipastoPro.ttf": "d477d0ec831cf90942527c703701a6c4",
 "assets/fonts/BeautifulHarmony.ttf": "a6fc83e79f6855ef046fdd1a2a3c585f",
@@ -11,6 +11,8 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/banner.jpg": "650f781f8d23ac6c69de1875a9c12612",
 "assets/images/contactProfile.png": "2a92f58013ea1b0454c98c120288761e",
+"assets/images/documents.png": "0272ed40a4d250a642345b74341af4c2",
+"assets/images/file_pursuit.png": "9ea36c6ff19bae801fdb88643ae941d2",
 "assets/images/icon.jpg": "05dac6967b2f7405c883d3d47ac55d9a",
 "assets/images/logo.png": "860d29052df1835d76808ddf4005358a",
 "assets/images/movies.png": "1b07258206281fa973c686eb35caabba",
@@ -36,9 +38,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "860d29052df1835d76808ddf4005358a",
 "icons/Icon-maskable-192.png": "860d29052df1835d76808ddf4005358a",
 "icons/Icon-maskable-512.png": "860d29052df1835d76808ddf4005358a",
-"index.html": "66daf5606c602ec68fdda5a3ce658dec",
-"/": "66daf5606c602ec68fdda5a3ce658dec",
-"main.dart.js": "8c1db4bbd1f1b3fd621950400760171d",
+"index.html": "37df47cfad3279de86e6966825de1ff1",
+"/": "37df47cfad3279de86e6966825de1ff1",
+"main.dart.js": "bca3c92015575c051dde075f7d50a050",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
